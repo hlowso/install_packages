@@ -1,0 +1,21 @@
+{
+  "name": "install_package",
+  "version": "1.0.0",
+  "description": "test project for learning to install packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "bacn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "None"
+  },
+  "keywords": [
+    "lol"
+  ],
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.1"
+  }
+}
